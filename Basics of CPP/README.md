@@ -1,3 +1,3 @@
 # Basics Of Cpp
 
-Start Coding:- https://practice.geeksforgeeks.org/batch-problems/start-coding
+Start Coding:- https://practice.geeksforgeeks.org/batch-problems/start-coding/0/
