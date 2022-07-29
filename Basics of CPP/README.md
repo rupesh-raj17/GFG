@@ -12,7 +12,7 @@ Even Odd Game:-https://practice.geeksforgeeks.org/batch-problems/even-odd-game/0
 
 Greatest of three numbers:-https://practice.geeksforgeeks.org/batch-problems/greatest-of-three-numbers2520/0/
 
-Calculator: -practice.geeksforgeeks.org/batch-problems/calculator/0/
+Calculator: https://practice.geeksforgeeks.org/batch-problems/calculator/0/
 
 Digital Root:-https://practice.geeksforgeeks.org/batch-problems/digital-root/0/
 
